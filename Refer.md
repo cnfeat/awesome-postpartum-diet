@@ -1,7 +1,7 @@
 refer
 
 - [30天不重样月子餐，制作心得与技术总结](https://www.douban.com/note/732633391/)
-
+- [一个新手爸爸照顾月子的技术总结](https://www.douban.com/note/733558934/?dt_platform=com.douban.activity.wechat_friends&dt_dapp=1)
 
 - [超完整42天月子食谱 科学进补不长肉 孕妈值得收藏\_美食\_小红书](https://www.xiaohongshu.com/discovery/item/5a12d3d104895e2ab4099608)
 - [整理了一份月子餐30天食谱及做法](https://www.douban.com/group/topic/74932843/)
@@ -18,3 +18,4 @@ refer
 - [丁香园-干货来了 - 腾讯文档](https://docs.qq.com/doc/DVFh3WHZYcldjaGtL)
 - [月子餐食谱](https://docs.qq.com/sheet/DVFNncGZrb2FwVWpz?tab=BB08J2&c=D7A0H0)
 - [#复刻月子餐食谱# 这是一个合集页，第1-30... 来自美食家大雄 - 微博](https://weibo.com/2090591961/HnT9GjjVu?type=comment)
+- [月子餐更新完毕](https://weibo.com/ttarticle/p/show?id=2309404416465938809117)
