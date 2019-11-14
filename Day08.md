@@ -1,5 +1,6 @@
 # 第 8 天
 
+[day8](https://www.douban.com/note/729477028/)
 
 ## 早餐
 

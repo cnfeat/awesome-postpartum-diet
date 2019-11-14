@@ -1,5 +1,6 @@
 # 第 6 天
 
+[day6](https://www.douban.com/note/729197957/)
 
 ## 早餐
 

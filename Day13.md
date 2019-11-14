@@ -1,4 +1,6 @@
-# 第一天
+# 第 13 天
+
+[day13](https://www.douban.com/note/730344786/)
 
 早餐：
 

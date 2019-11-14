@@ -1,4 +1,6 @@
-# 第一天
+# 第 16 天
+
+[day16](https://www.douban.com/note/730929644)
 
 早餐：
 

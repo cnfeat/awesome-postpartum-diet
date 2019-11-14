@@ -1,5 +1,7 @@
 # 第 2 天
 
+[day2](https://www.douban.com/note/728660887/)
+
 ## 早餐
 
 * 糙米荞麦粥

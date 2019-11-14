@@ -1,5 +1,7 @@
 # 第 4 天
 
+[day4](https://www.douban.com/note/728906645/)
+
 ## 早餐
 
 * 小米粥

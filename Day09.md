@@ -1,5 +1,7 @@
 # 第 9 天
 
+[day9](https://www.douban.com/note/729659606/)
+
 ## 早餐
 
 * 红枣小米粥 

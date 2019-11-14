@@ -1,5 +1,6 @@
 # 第 10 天
 
+[day10](https://www.douban.com/note/729966061/)
 
 ## 早餐
 

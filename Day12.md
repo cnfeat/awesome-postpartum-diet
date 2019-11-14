@@ -1,4 +1,6 @@
-# 第一天
+# 第 12 天
+
+[day12](https://www.douban.com/note/730179492/)
 
 早餐：
 

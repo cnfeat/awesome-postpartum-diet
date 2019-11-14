@@ -1,5 +1,7 @@
 # 第 5 天
 
+[day5](https://www.douban.com/note/729047919/)
+
 ## 早餐
 
 * 紫薯包

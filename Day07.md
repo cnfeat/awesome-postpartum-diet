@@ -1,5 +1,7 @@
 # 第 7 天
 
+[day7](https://www.douban.com/note/729291235/)
+
 ## 早餐
 
 
